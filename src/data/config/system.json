@@ -1,0 +1,16 @@
+{
+  "config_version": "1.1.0",
+  "data_dir": "src/data/data",
+  "backup_dir": "src/data/backup",
+  "backup_interval_days": 7,
+  "keep_backups_count": 10,
+  "log_level": "INFO",
+  "auto_save_interval_minutes": 5,
+  "auto_update_check": true,
+  "show_welcome": true,
+  "plugins_dir": "src/plugins",
+  "enabled_plugins": [
+    "schedule_assistant"
+  ],
+  "minimize_to_tray": true
+}
