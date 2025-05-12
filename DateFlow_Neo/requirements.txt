@@ -1,3 +1,0 @@
-PyQt5>=5.15.0
-PyQt-Fluent-Widgets[full]>=1.2.0 
-structlog>=22.1.0 
