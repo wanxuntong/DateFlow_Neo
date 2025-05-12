@@ -1,5 +1,9 @@
 
-# DateFlow 个人排期助手 📅
+# DateFlow 
+![应用截图](src/resources/screenshots/main.png)
+---
+
+#个人排期助手 📅
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.6%2B-blue)
