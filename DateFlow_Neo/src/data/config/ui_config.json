@@ -1,0 +1,21 @@
+{
+  "sidebar_width": 220,
+  "compact_mode": false,
+  "animation_speed": "normal",
+  "use_system_accent_color": true,
+  "accent_color": "#0078D7",
+  "icon_size": "medium",
+  "font_family": "Microsoft YaHei",
+  "font_size": 9,
+  "enable_tooltips": true,
+  "show_statusbar": true,
+  "toolbar_style": "标准",
+  "show_toolbar_text": true,
+  "window_state": {
+    "maximized": false,
+    "width": 1024,
+    "height": 768,
+    "x": 100,
+    "y": 100
+  }
+}

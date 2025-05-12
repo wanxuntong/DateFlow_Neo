@@ -1,0 +1,27 @@
+{
+  "theme": "auto",
+  "language": "zh_CN",
+  "start_view": "calendar",
+  "work_days": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "work_hours": {
+    "start": "09:00",
+    "end": "18:00"
+  },
+  "reminder_advance_minutes": 15,
+  "show_completed_tasks": true,
+  "default_task_duration_hours": 1,
+  "auto_save_interval_minutes": 5,
+  "task_priority_colors": {
+    "低": "#4CAF50",
+    "中": "#2196F3",
+    "高": "#FF9800",
+    "紧急": "#F44336"
+  },
+  "default_priority": "中"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "排期助手",
+    "version": "1.0.0",
+    "description": "提供辅助排期功能，包括任务批量创建、智能推荐时间段、重复任务管理等",
+    "author": "InfoFlow",
+    "requires": [],
+    "settings": [
+        {
+            "key": "work_start_time",
+            "name": "工作开始时间",
+            "description": "默认工作开始时间",
+            "type": "time",
+            "default": "09:00:00"
+        },
+        {
+            "key": "work_end_time",
+            "name": "工作结束时间",
+            "description": "默认工作结束时间",
+            "type": "time",
+            "default": "18:00:00"
+        },
+        {
+            "key": "default_task_duration",
+            "name": "默认任务时长",
+            "description": "默认任务持续时间（分钟）",
+            "type": "number",
+            "default": 60
+        }
+    ]
+} 
