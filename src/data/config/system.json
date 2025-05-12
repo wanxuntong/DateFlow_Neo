@@ -12,5 +12,6 @@
   "enabled_plugins": [
     "schedule_assistant"
   ],
-  "minimize_to_tray": true
+  "minimize_to_tray": true,
+  "backup_count": 5
 }
