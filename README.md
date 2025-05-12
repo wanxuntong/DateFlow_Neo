@@ -1,5 +1,5 @@
 ![DateFlow个人排期助手](src/resources/images/splash.png)
-
+#DateFlow个人排期助手
 ---
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
