@@ -9,7 +9,7 @@
 
 DateFlow是一款基于PyQt5和PyQt-Fluent-Widgets开发的现代化个人日程排期软件，提供直观的界面和多种视图模式，帮助您更高效地管理时间和任务。
 
-![应用截图](src/resources/screenshots/main.png)
+![DateFlow个人排期助手](src/resources/screenshots/main.png)
 
 ## ✨ 功能亮点
 
