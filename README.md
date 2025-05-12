@@ -1,6 +1,8 @@
+DateFlow个人排期助手 📅
+
 ![DateFlow个人排期助手](src/resources/images/splash.png)
 
-DateFlow个人排期助手 📅
+
 ---
 
 注意，程序处于早期构建阶段，其功能并不完善
