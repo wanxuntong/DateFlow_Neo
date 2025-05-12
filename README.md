@@ -1,6 +1,6 @@
 
 # DateFlow 
-![应用截图](src/resources/img/splash.png)
+![应用截图](src/resources/images/splash.png)
 ---
 
 #个人排期助手 📅
