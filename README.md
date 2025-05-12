@@ -3,7 +3,7 @@
 DateFlow个人排期助手 📅
 ---
 
-#注意，程序处于早期构建阶段，其功能并不完善
+注意，程序处于早期构建阶段，其功能并不完善
 
 ---
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
