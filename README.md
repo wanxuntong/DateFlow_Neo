@@ -3,6 +3,9 @@
 DateFlow个人排期助手 📅
 ---
 
+#注意，程序处于早期构建阶段，其功能并不完善
+
+---
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.6%2B-blue)
 ![PyQt5](https://img.shields.io/badge/PyQt5-5.15.0%2B-green)
