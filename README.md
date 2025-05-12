@@ -163,7 +163,7 @@ DateFlow采用灵活的插件架构，允许开发者通过插件扩展功能：
 
 - 项目维护者: HeDaas-Code
 - 邮箱: zhangtianzhe0517@stu.sdua.edu.cn
-- 项目链接: https://github.com/HeDaas-Code/DateFlow-Neo
+- 项目链接: https://github.com/HeDaas-Code/DateFlow_Neo
 
 ---
 
